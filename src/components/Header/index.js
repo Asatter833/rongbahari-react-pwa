@@ -34,7 +34,7 @@ import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
 // Assets
-import pndIcon from "../../assets/pnd-icon.svg";
+import rongbahariIcon from "../../assets/RongbahariLogo.svg";
 
 // Icons
 import {
@@ -134,7 +134,7 @@ const Index = () => {
             >
               <span style={{ justifyContent: "flex-start" }}>
                 <Avatar
-                  src={pndIcon}
+                  src={rongbahariIcon}
                   sx={{
                     width: "120px",
                     height: "60px",

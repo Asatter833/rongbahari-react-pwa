@@ -6,8 +6,8 @@ import { amber } from "@mui/material/colors";
 
 // colors
 const primary = "#272643";
-const primaryLight = "#F6EAE3";
-const primaryBright = "#F6EAE3";
+const primaryLight = "#FFEEEE";
+const primaryBright = "#FFEEEE";
 const black = "#252E42";
 const blackDark = "#1F283B";
 const blackLight = "#2F3B52";
